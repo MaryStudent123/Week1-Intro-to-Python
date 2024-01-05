@@ -22,6 +22,9 @@ This section will introduce you to the essential functions of GitHub. We start w
 
 5. **Merge Pull Request**
    - Merge your pull request into the main branch of your repository after it has been reviewed.
+     
+6. **Fork a Repository**
+   - Fork this repository to your own account 
 
 ## Part 2: Python Notebook Tutorial
 
@@ -36,11 +39,13 @@ In this part, you will work on a Python notebook in this repository, which conta
    - In your forked repository, create a new branch for your changes.
 
 3. **Make Changes in the Python Notebook**
-   - Open the Python notebook provided in the repository.
+   - Open the Python notebook(in your own repository) on Colab.
+   - Copy this notebook in your own drive.
    - For each heading in the notebook you need to do the following tasks:
      - Add one new example in the tutorial.
-     - Write a description of the example you added. 
-   - Commit your completed notebook to your branch.
+     - Write a description of the example you added.
+   - Save this updated notebook with the same name  (i.e. Introduction_to_Python.ipynb) and upload directly from Colab to your own Github account's branch that you just created. (saving with the same name is neccessary so that i can see your changes!)
+   - Commit changes to your branch.
 
 4. **Create a Pull Request**
    - After making the changes, create a pull request in your forked repository to merge your branch into your main branch.
